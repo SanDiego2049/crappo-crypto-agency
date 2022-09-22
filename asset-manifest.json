@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crappo-crypto-agency/static/css/main.82398ce7.css",
+    "main.js": "/crappo-crypto-agency/static/js/main.b561c1e7.js",
+    "static/js/787.51fcf24e.chunk.js": "/crappo-crypto-agency/static/js/787.51fcf24e.chunk.js",
+    "static/media/Illustration.png": "/crappo-crypto-agency/static/media/Illustration.c00b5ce9f35ad40d176a.png",
+    "static/media/Table.png": "/crappo-crypto-agency/static/media/Table.9914ebb9d1cb7e909663.png",
+    "static/media/Illustrations.png": "/crappo-crypto-agency/static/media/Illustrations.e18a5b999851ae089c70.png",
+    "static/media/Chart.png": "/crappo-crypto-agency/static/media/Chart.daf0fac44c5099df5d4e.png",
+    "static/media/o (1).png": "/crappo-crypto-agency/static/media/o (1).658ff93cbbbd034d53b9.png",
+    "static/media/Statistic.png": "/crappo-crypto-agency/static/media/Statistic.2448335b9915e9b97a9d.png",
+    "static/media/o.png": "/crappo-crypto-agency/static/media/o.de8fbc545da95a5543a5.png",
+    "static/media/D.png": "/crappo-crypto-agency/static/media/D.1cabf02fe84bd4129271.png",
+    "index.html": "/crappo-crypto-agency/index.html",
+    "main.82398ce7.css.map": "/crappo-crypto-agency/static/css/main.82398ce7.css.map",
+    "main.b561c1e7.js.map": "/crappo-crypto-agency/static/js/main.b561c1e7.js.map",
+    "787.51fcf24e.chunk.js.map": "/crappo-crypto-agency/static/js/787.51fcf24e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82398ce7.css",
+    "static/js/main.b561c1e7.js"
+  ]
+}
