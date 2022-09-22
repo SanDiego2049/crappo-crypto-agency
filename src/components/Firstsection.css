@@ -1,0 +1,21 @@
+.sized{
+    height: 50px;
+}
+
+.small{
+    position: absolute;
+    margin: 50px 0;
+    width: 200px;
+    z-index: -1;
+}
+
+.shifted{
+    position: relative;
+    top: 22vh;
+}
+
+@media screen and (max-width: 576px) {
+    .small{
+        width: 150px;
+    }
+}

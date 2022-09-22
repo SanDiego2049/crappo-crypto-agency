@@ -1,0 +1,57 @@
+.cool-gradient{
+    background: linear-gradient(180deg, #2B076E 4%, #0D0D2B 100%);
+}
+
+.medium{
+    position: absolute;
+    margin-top: 50px;
+    width: 700px;
+    z-index: 1;
+}
+
+.normal{
+    padding: 0;
+    position: absolute;
+    transform: translateY(-32%);
+    width: 250px;
+    z-index: 0;
+}
+
+.change::placeholder{
+    color: #ffffff;
+}
+
+.tiny{
+    position: absolute;
+    transform: translate(90%, 107%);
+    width: 150px;
+    z-index: 3;
+}
+
+.secondtiny{
+    position: absolute;
+    transform: translate(-90%, -57%);
+    width: 150px;
+    z-index: 3;
+}
+
+@media screen and (max-width: 576px) {
+    .medium{
+        width: 400px;
+        margin-top: 0;
+    }
+
+    .normal{
+        width: 150px;
+    }
+
+    .tiny{
+        transform: translate(40%, 145%);
+        width: 100px;
+    }
+    
+    .secondtiny{
+        transform: translate(-20%, -120%);
+        width: 100px;
+    }
+}
